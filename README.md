@@ -8,7 +8,3 @@
 #### To run:
 
 in your terminal, type `cat {path/to/CSV/file} | node index.js`
-
-
-
-a change to get rid of  
