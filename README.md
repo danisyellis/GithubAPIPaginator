@@ -8,3 +8,5 @@
 #### To run:
 
 in your terminal, type `cat {path/to/CSV/file} | node index.js`
+
+another change - for testing etags
